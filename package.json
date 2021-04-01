@@ -1,0 +1,23 @@
+{
+  "name": "task5-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxintong111/task5-book.git"
+  },
+  "keywords": [],
+  "author": "liuxintong111",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuxintong111/task5-book/issues"
+  },
+  "homepage": "https://github.com/liuxintong111/task5-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
